@@ -19,7 +19,7 @@ HOME PAGE:
 
 LOGIN PAGE:
 
-![Log Page](client/Input&Output_Images/Log_Page.png)
+![Log Page](client/Input&Output_Images/Login_Page.png)
 
 INPUT PAGE:
 
